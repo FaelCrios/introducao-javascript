@@ -9,10 +9,3 @@ tabela.addEventListener('dblclick', function (event) {
     event.target.parentNode.remove()
   }, 300)
 })
-
-// pacientes.forEach(function (paciente) {
-//   paciente.addEventListener('dblclick', function () {
-//     console.log('fui clicado dblclick')
-//     this.remove()
-//   })
-// })
